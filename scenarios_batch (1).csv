@@ -1,0 +1,31 @@
+ID,Question,OptionA,OptionB,OptionC,ImpactA,ImpactB,ImpactC
+1,A customer posts a negative review online. What do you do?,Ignore the comment,Respond politely and offer help,Publicly refute the comment,-5,10,-10
+2,A competitor launches a new innovative product. What do you do?,Do nothing,Analyze the product and improve your own,Discredit their product,0,15,-5
+3,A social media influencer criticizes your product. What do you do?,Ignore,Collaborate with them for a review,Challenge their critique,-5,20,-10
+4,A viral video negatively portrays your brand. What do you do?,Ignore it,Create a positive response video,Threaten legal action,-10,15,-20
+5,Your product is featured in a popular blog. What do you do?,Share the blog post,Thank the blogger,Offer the blogger an exclusive interview,5,10,15
+6,A rumor about your company spreads on social media. What do you do?,Ignore it,Refute the rumor with facts,Use humor to deflect,-5,10,5
+7,A new law affects your product line. What do you do?,Complain about the law publicly,Adapt your products,Lobby for changes,-5,10,5
+8,A customer praises your product online. What do you do?,Like the comment,Share the comment with a thank you,Offer a discount on their next purchase,5,10,15
+9,Your brand receives an award. What do you do?,Announce it with a simple post,Host an event to celebrate,Create a campaign around the award,5,10,20
+10,A negative falsehood about your brand is being spread. What do you do?,Sue the source,Correct the information publicly,Use it as a chance to explain your values,-20,10,15
+11,An employee's controversial tweet goes viral. What do you do?,Ignore the tweet,Apologize and announce an internal review,Defend the employee's freedom of speech,-5,10,-10
+12,Your brand is mentioned in a popular podcast. What do you do?,Thank the hosts publicly,Sponsor the next episode,Offer an exclusive interview or product,10,15,20
+13,A high-profile celebrity is seen using your product. What do you do?,Do nothing,Reach out for an endorsement,Create a marketing campaign around it,5,20,30
+14,Customers complain about poor customer service. What do you do?,Ignore the complaints,Improve training and apologize,Offer compensation to affected customers,-10,15,20
+15,A product recall is announced. What do you do?,Minimize the issue,Apologize and offer refunds or replacements,Launch an informative recall campaign,-20,10,15
+16,Your company wins a sustainability award. What do you do?,Make a low-key announcement,Launch a campaign highlighting your efforts,Partner with an environmental charity,5,15,20
+17,A false advertising claim is made against your brand. What do you do?,Ignore the claim,Clarify the misunderstanding,Revise your advertising practices,-10,10,20
+18,A major competitor goes out of business. What do you do?,Publicize their failure,Offer support to their former customers,Hire their top talent,-5,20,25
+19,A customer's positive unboxing video goes viral. What do you do?,Like and share the video,Send a thank-you gift,Feature the video in your marketing,10,15,20
+20,Your brand is accused of unethical practices. What do you do?,Deny all accusations,Investigate and address the issues,Promote your ethical policies,-20,20,10
+21,A new social media challenge involves your product. What do you do?,Encourage participation,Create a branded version of the challenge,Warn about any potential risks,10,20,5
+22,Your website experiences a data breach. What do you do?,Downplay the breach,Notify affected users and enhance security,Offer compensation to affected users,-30,15,20
+23,A well-known industry analyst criticizes your business model. What do you do?,Ignore the criticism,Invite the analyst for a discussion,Publicly defend your model,-5,20,10
+24,Your brand partners with a controversial figure. What do you do?,Sever ties immediately,Defend the partnership,Monitor public reaction before deciding,-10,-20,0
+25,A popular TV show makes fun of your product. What do you do?,Issue a formal complaint,Use humor to join the conversation,Offer the show's hosts a product demo,-10,15,20
+26,Your product is featured in a negative news report. What do you do?,Ignore the report,Offer a factual rebuttal,Highlight positive customer stories,-10,10,20
+27,A positive scientific study about your product is published. What do you do?,Share the study widely,Host a webinar to discuss the findings,Use the study in your marketing materials,20,25,30
+28,An employee starts a crowdfunding campaign for a personal project. What do you do?,Promote the campaign internally,Share the campaign on social media,Ask the employee to halt the campaign,0,10,-5
+29,Your company is featured in a documentary about sustainability. What do you do?,Promote the documentary,Create educational content based on it,Organize a screening event,15,20,25
+30,A key product is delayed due to supply chain issues. What do you do?,Hide the reasons for the delay,Communicate openly about the issues,Offer discounts to affected customers,-15,10,20
